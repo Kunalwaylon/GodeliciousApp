@@ -13,7 +13,7 @@ workflows:
     instance_type: mac_mini_m2
     integrations:
       # Must match the API key name in Codemagic > Settings > Integrations > Developer Portal.
-      app_store_connect: Godelicious ASC Key
+      app_store_connect: kunal Harshaa Jadhav
     environment:
       groups:
         - ios_signing_key
